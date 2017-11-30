@@ -1,4 +1,5 @@
 //Let's create the variable 'quotes' and store our quote collection as an array. Let's break each quote down by the text we want displayed, and who said it, stored as 'quote' and 'name' respectively.
+/*global $*/
 
 var quotes = [{
   quote: "Thank you so much for-to-playing my game!",
